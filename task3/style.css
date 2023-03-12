@@ -1,0 +1,35 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+header{
+    
+    background-image: url(assets/media/ocean.jpg);
+    background-size: cover;
+    height:600px; 
+    padding-top:80px;
+}
+#submit{
+    margin-left: 20px;
+}
+header .container{
+    margin-top: 100px;
+}
+.images{
+    height: 72px;
+    width: 72px;
+}
+.icons .container{
+    padding: 112px 0px;
+}
+.signup{
+    background-image: url(assets/media/ocean.jpg);
+    background-size: cover;
+}
+footer{
+    padding: 64px 0px;
+}
+.social-networks{
+    width: 28px;
+    height: 28px;
+}
